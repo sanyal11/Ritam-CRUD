@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactlambdagraphql-staging-161909-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437749481831:role/amplify-reactlambdagraphql-staging-161909-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437749481831:role/amplify-reactlambdagraphql-staging-161909-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactlambdagraphql-staging-161909-deployment",
+      "UnauthRoleName": "amplify-reactlambdagraphql-staging-161909-unauthRole",
+      "StackName": "amplify-reactlambdagraphql-staging-161909",
+      "StackId": "arn:aws:cloudformation:us-east-1:437749481831:stack/amplify-reactlambdagraphql-staging-161909/68634380-dc46-11ec-bf01-0ad8c37ff74f",
+      "AmplifyAppId": "d32apowz57p8v6"
+    }
+  }
+}
